@@ -2,12 +2,6 @@
 #include<malloc.h>
 #include <string.h>
 
-// vector - traversare, inserare, stergere, citire din consola
-// + desen lista, logica lista -> flow. Schema logica.. Cum stii tu
-// De facut o structura de produs cu atribute normale, cu descriere de tip char  si afisat
-// De schimbat atributele normale in pointeri si afisat din nou
-// La inceput le pui niste valori standard tu, hardcodate, apoi citesti de la consola valorile pentru produs si faci 3
-// produse
 
 typedef struct {
 	int* cod;
